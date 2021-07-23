@@ -1,0 +1,19 @@
+body,html{
+    width:100%;
+    background-image: url("starry-sky-2675322_1920.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+body h1{
+    font: size 25px;
+    color:white;
+    text-align: center;
+    padding-top: 15%;
+}
+body i{
+    color:rgb(207, 207, 207);
+    font-size: 20;
+    text-align: center;
+    padding-left: 6%;
+}
